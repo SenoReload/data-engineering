@@ -1,3 +1,6 @@
+# A Python Variable is a label for a location in memory.
+# A Simple Data Type is a classification of data which can be represented in memory.
+
 # f-strings: formating varible values to strings
 first_name = "ada"
 last_name = "lovelace"
@@ -11,7 +14,8 @@ print(0.2 + 0.1)
 print(3 * 0.1)
 
 # Multiple assignments
-x, y, z = 0, 0, 0
+x, y, z = 1, 2, 3
+print(x, y, z)
 
 # Constants and underscores
 MAX_CONNECTIONS = 5_0_0_0
