@@ -1,4 +1,4 @@
-__doc__ = """ Python Crash Course - Chapter 4 - Working with Lists """
+""" Python Crash Course - Chapter 4 - Working with Lists """
 # A Python List is a collection of items in a particular order.
 # A Python slice is a specific group of items in a list.
 # Python Tuples are immutable lists.
