@@ -145,9 +145,15 @@ A stakeholder is a person or group of people who have an interest in a business.
 
 **Spreadsheet**:
 A spreadsheet is a computer program that is used to organize data in rows and columns. Spreadsheets are used to store, organize, and analyze data.
+    1. **Examples**:
     - **Microsoft Excel**
     - **Google Sheets**
-
+    2. **Attributes**:
+        A characteristic or quality of data used to label a column in a table.
+    3. **Observations**:
+        A row in a table that contains data about a single item.
+    4. **Formula**:
+        Set of instructions that performs a specific action using the data in a spreadsheet.
 **Query Language for Databases**:
 A query language is a computer language that is used to retrieve data from a database. A query language is a computer language that is used to retrieve data from a database.
     - **SQL**: Structured Query Language
@@ -160,4 +166,31 @@ A visualization tool is a computer program that is used to create visualizations
     - **Looker**
 
 **Database**:
-A database is a collection of data that is organized in a way that makes it easy to access, manage, and update.
+    A database is a collection of data that is organized in a way that makes it easy to access, manage, and update.
+
+**Issue**:
+    An issue is a problem or concern that needs to be addressed.
+
+**Question**:
+    A question is a sentence that asks for information.
+
+**Problem**:
+    A problem is a situation that needs to be solved.
+
+**Business Task**:
+    The question or problem data analysis answers for a business.
+
+**Data Fairness**:
+    Data fairness is the process of ensuring that data is fair and unbiased.
+
+**Choosing job as a Data Analyst**:
+    1. **Industry**:
+        The industry is the type of business that a company is in.
+    2. **Tools**:
+        The tools are the software and hardware that are used to do a job.
+    3. **Location**:
+        The location is the place where a job is located.
+    4. **Travel**:
+        The travel is the amount of time that is spent traveling to and from work.
+    5. **Culture**:
+        The culture is the set of values, beliefs, and behaviors that are shared by a group of people.
