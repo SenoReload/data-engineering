@@ -1,6 +1,14 @@
+-- Create a table called teachers in the analysis database:
+CREATE TABLE teachers (
+	id bigserial,
+	first_name varchar(50),
+	last_name varchar(50),
+	school varchar(50),
+	hire_date date,
+	salary numeric
+);
 
--- This code creates a table called teachers and inserts teacher data into the table.
-
+-- Inserts teacher data into the table.
 INSERT INTO teachers (first_name, last_name, school, hire_date, salary)
 VALUES ('Jane', 'Smith', 'F.D. Roosevelt HS', '2011-10-30', 36200),
        ('John', 'Doe', 'Alamo Street', '2010-06-30', 39100),

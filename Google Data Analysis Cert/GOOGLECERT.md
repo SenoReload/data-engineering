@@ -88,6 +88,7 @@ Analytical skills are a set of skills that are used to collect, organize, analyz
 
 **Data Analytical Thinking**:
 Data analytical thinking is the process of using data to solve problems. It involves collecting, organizing, analyzing, and interpreting data to make decisions.
+
 1. **Visualization**:
   Graphical representation of information.
 
@@ -101,7 +102,7 @@ Data analytical thinking is the process of using data to solve problems. It invo
   Correlation is the process of identifying relationships between variables.
 
 5. **Big-picture and detail-oriented thinking**:
-  Means to be able to see the big picture and the details at the same time. 
+  Means to be able to see the big picture and the details at the same time.
 
 **Root Cause**:
 The root cause is the underlying cause of a problem. It is the reason why something happened.

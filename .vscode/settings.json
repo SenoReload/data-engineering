@@ -10,5 +10,10 @@
             "database": "analysis",
             "username": "postgres"
         }
+    ],
+    "cSpell.words": [
+        "bigserial",
+        "ILIKE",
+        "varchar"
     ]
 }
